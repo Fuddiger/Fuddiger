@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fuddiger
-- 👀 I’m interested in Python, web design, game design, 
+- 👀 I’m interested in Python, web sraping, sql, asynchio
 - 🌱 I’m currently learning Github, Pycharm, web design, web scraping
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: andrewfudalewski@gmail.com
