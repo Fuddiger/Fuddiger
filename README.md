@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fuddiger
-- 👀 I’m interested in Python, web sraping, sql, asynchio
-- 🌱 I’m currently learning Github, Pycharm, web design, web scraping
+- 👀 I’m interested in Python, mathplotlib, pandas, numpy, asynchio
+- 🌱 I’m currently learning matplotlib, pandas, numpy
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: andrewfudalewski@gmail.com
 
